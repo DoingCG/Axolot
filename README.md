@@ -5,4 +5,7 @@ Watch out! God Xolotl is in his axolotl form in order to scape of his dark futur
 
 Drive carefully your boat through the Xochimilco river, avoid the rocks and survive!
 
-![alt text](
+![alt text](https://github.com/ToninpRnD/Axolot/blob/master/AxolotCapture.png?raw=true)
+
+
+https://nimoriastudio.itch.io/axalot
