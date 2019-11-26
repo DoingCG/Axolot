@@ -9,3 +9,8 @@ Drive carefully your boat through the Xochimilco river, avoid the rocks and surv
 
 
 https://nimoriastudio.itch.io/axalot
+
+**Credits**
+Music and SoundFx - Alejandro Leiva Sevilla
+3D Art and Textures - Jaime Moros Jiménez
+Programming - Antonio Nieto Pastor
